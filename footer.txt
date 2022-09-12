@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello
+=======
+check out
+change from master
+>>>>>>> master
