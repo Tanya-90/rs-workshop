@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 check out
 change from master
+=======
+hello
+>>>>>>> 15bc3f6 (add footer)
